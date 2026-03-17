@@ -1,0 +1,14 @@
+.\robocon2024\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
+.\robocon2024\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+.\robocon2024\croutine.o: F:\Keil_v5\keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\robocon2024\croutine.o: F:\Keil_v5\keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\robocon2024\croutine.o: ../Core/Inc/FreeRTOSConfig.h
+.\robocon2024\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+.\robocon2024\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+.\robocon2024\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+.\robocon2024\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+.\robocon2024\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+.\robocon2024\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+.\robocon2024\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+.\robocon2024\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/croutine.h
+.\robocon2024\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

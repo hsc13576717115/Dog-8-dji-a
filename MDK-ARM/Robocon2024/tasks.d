@@ -1,0 +1,16 @@
+.\robocon2024\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/tasks.c
+.\robocon2024\tasks.o: F:\Keil_v5\keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\robocon2024\tasks.o: F:\Keil_v5\keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\robocon2024\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+.\robocon2024\tasks.o: F:\Keil_v5\keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\robocon2024\tasks.o: F:\Keil_v5\keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\robocon2024\tasks.o: ../Core/Inc/FreeRTOSConfig.h
+.\robocon2024\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+.\robocon2024\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+.\robocon2024\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+.\robocon2024\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+.\robocon2024\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+.\robocon2024\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+.\robocon2024\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+.\robocon2024\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+.\robocon2024\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stack_macros.h

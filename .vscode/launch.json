@@ -1,0 +1,34 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "ST-Link",
+            "cwd": "${workspaceFolder}",
+            "executable": "build/target.elf",
+            "request": "launch",
+            // "preLaunchTask": "Make_Task",
+            "type": "cortex-debug",
+            "servertype": "openocd",
+            "configFiles": [
+                "${workspaceFolder}/xpack-openocd-0.12.0-1/openocd/scripts/interface/stlink.cfg",
+                "${workspaceFolder}/xpack-openocd-0.12.0-1/openocd/scripts/target/stm32f4x.cfg"
+            ]
+        },
+        {
+            "name": "CMSIS-DAP",
+            "cwd": "${workspaceFolder}",
+            "executable": "build/target.elf",
+            "request": "launch",
+            // "preLaunchTask": "Make_Task",
+            "type": "cortex-debug",
+            "servertype": "openocd",
+            "configFiles": [
+                "${workspaceFolder}/xpack-openocd-0.12.0-1/openocd/scripts/interface/cmsis-dap.cfg",
+                "${workspaceFolder}/xpack-openocd-0.12.0-1/openocd/scripts/target/stm32f4x.cfg"
+            ]
+        },
+    ]
+}
