@@ -4,6 +4,14 @@
 
 这个工程明显是比赛机器人项目，不是通用模板。很多参数、状态切换、起立动作、跳跃动作和自动流程都已经针对当前机构尺寸、场地任务和传感器布局做了实机标定，所以把它当成“可直接运行的整机控制工程”理解会更准确。
 
+## 实机演示
+
+以下视频展示 DJI A 板控制的 8 自由度并联四足机器人实机运动。
+
+[![DJI A板并联四足实机演示](docs/media/dji-a-parallel-quadruped-preview.gif)](docs/media/dji-a-parallel-quadruped-demo.mp4)
+
+[点击播放或下载完整 MP4 视频](docs/media/dji-a-parallel-quadruped-demo.mp4)
+
 ## 1. 项目概览
 
 ### 1.1 核心功能
